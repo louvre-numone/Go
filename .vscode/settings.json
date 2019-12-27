@@ -1,0 +1,6 @@
+{
+    "editor.defaultFormatter": "ms-vscode.Go",
+    "go.autocompleteUnimportedPackages": true,
+    "go.docsTool": "gogetdoc",
+    "go.gocodeAutoBuild": true
+}
